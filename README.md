@@ -4,7 +4,7 @@
 
 ## Penipu DANA
 
-Program yang saya buat di khususkan untuk melakukan SPAM pada penipu dana yang mencoba memberikan web palsu seperti pada gambar di bawah ini :
+Program yang saya buat di khususkan untuk melakukan SPAM pada penipu DANA yang mencoba memberikan web palsu seperti pada gambar di bawah ini :
 
 ![image](https://github.com/galihap76/penipu-dana/assets/83481679/c7ede056-48a6-4634-a933-a7a1530bfc63)
 
@@ -49,10 +49,12 @@ Jika Anda tidak familiar dengan CLI, Anda bisa menggunakan versi GUI. Anda bisa 
 
 ## Screenshots
 
+### CLI
 ![image](https://github.com/galihap76/penipu-dana/assets/83481679/d614170e-443f-4623-9c22-0a92eea27a13)
 
 <hr/>
 
+### GUI
 ![image](https://github.com/galihap76/penipu-dana/assets/83481679/527822e7-714e-427d-bed5-277af9e17cd6)
 
 ## Cara Kerja Program
