@@ -61,6 +61,11 @@ Jika Anda tidak familiar dengan CLI, Anda bisa menggunakan versi GUI. Anda bisa 
 ### GUI
 ![image](https://github.com/galihap76/penipu-dana/assets/83481679/527822e7-714e-427d-bed5-277af9e17cd6)
 
+<hr/>
+
+### BOT Telegram Penipu
+![image](https://github.com/galihap76/penipu-dana/assets/83481679/42615beb-4f7c-48d6-8bda-bc053a1fa70c)
+
 ## Cara Kerja Program
 
 Program yang saya buat akan melakukan request menggunakan method POST yang artinya ketika saya mengirimkan pesan nanti akan masuk ke telegram nya si penipu dengan status response 200 yang artinya pengiriman berhasil.  Hal ini saya sudah tahu token dan chat ID nya si penipu yang nanti akan melakukan hit API telegram bot nya. Jika status nya bukan 200 berarti ada kesalahan dan mungkin akan melemparkan 429 yang artinya terlalu menerima permintaan dari saya, sehingga bot susah menanggapi.
