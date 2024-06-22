@@ -28,9 +28,13 @@ Saya tahu web di atas palsu maka saya mencoba melakukan inspect element apakah a
 
 Dan benar saja, gambar di atas terdapat API telegram bot si penipu. Skenario serangan layaknya web phising, ketika si korban terkena jebakan dan korban memasukkan PIN DANA maka PIN tersebut akan di kirimkan ke telegram bot si penipu. PIN DANA seharusnya tidak boleh di bagi tahu siapapun karena bersifat privasi.
 
-## Python & JavaScript
+## Download
 
-Program yang saya buat terdapat dua versi yaitu versi command line (CLI) dan web (GUI) menggunakan JavaScript. Pada CLI menggunakan Python, jadi sistem komputer Anda perlu mengunduh dan menginstall bahasa pemrograman Python. Anda perlu mengunduh Library tambahan pada Python yaitu :
+Untuk mendownload program ini, Anda bisa lihat tombol hijau bernama **code**, klik, lalu pilih download zip :
+
+![image](https://github.com/galihap76/penipu-dana/assets/83481679/ad7970ee-2183-4f3b-9176-8ad84ee91ec2)
+
+Program yang saya buat terdapat dua versi yaitu versi command line (CLI) dan web (GUI) menggunakan JavaScript. Pada CLI menggunakan Python, jadi sistem komputer Anda perlu mengunduh dan menginstall dulu bahasa pemrograman Python. Anda perlu mengunduh Library tambahan pada Python yaitu :
 
 ```
 pip install requests
