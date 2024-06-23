@@ -57,7 +57,7 @@ Program yang saya buat akan melakukan request menggunakan method POST yang artin
 
 ## Screenshots
 
-Saya akan bagikan beberapa screenshots sebagai bukti untuk mengirimkan pesan ke bot telegram milik teman saya sebagai bukti saja.
+Saya akan bagikan beberapa screenshots sebagai bukti untuk mengirimkan pesan ke bot telegram milik teman saya.
 
 ### GUI
 
