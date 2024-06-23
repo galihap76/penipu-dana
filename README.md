@@ -32,7 +32,7 @@ Dan benar saja, gambar di atas terdapat API telegram bot si penipu. Skenario ser
 
 Untuk mendownload program ini, Anda bisa lihat tombol hijau bernama **code**, klik, lalu pilih download zip :
 
-![image](https://github.com/galihap76/penipu-dana/assets/83481679/ad7970ee-2183-4f3b-9176-8ad84ee91ec2)
+![sss](https://github.com/galihap76/penipu-dana/assets/83481679/4182650f-e84d-402b-8ce9-7e6429ac0d15)
 
 Program yang saya buat terdapat dua versi yaitu versi command line (CLI) dan web (GUI) menggunakan JavaScript. Pada CLI menggunakan Python, jadi sistem komputer Anda perlu mengunduh dan menginstall dulu bahasa pemrograman Python. Anda perlu mengunduh Library tambahan pada Python yaitu :
 
