@@ -51,6 +51,10 @@ python main.py -t 6885075668:AAHo5FR5xWffNA7oXu_TS7jHnk41AsNyXcc -c 7136411148
 
 Jika Anda tidak familiar dengan CLI, Anda bisa menggunakan versi GUI. Anda bisa masuk folder **web** dan klik file **index.html** nya lalu Anda bisa mencoba nya langsung. Pastikan koneksi internet menyala sebelum menggunakan program ini.
 
+## Cara Kerja Program
+
+Program yang saya buat akan melakukan request menggunakan method POST yang artinya ketika saya mengirimkan pesan nanti akan masuk ke telegram nya si penipu dengan status response 200 yang artinya pengiriman berhasil.  Hal ini saya sudah tahu token dan chat ID nya si penipu yang nanti akan melakukan hit API telegram bot nya. Jika status nya bukan 200 berarti ada kesalahan dan mungkin akan melemparkan 429 yang artinya terlalu menerima permintaan dari saya, sehingga bot susah menanggapi.
+
 ## Screenshots
 
 Saya akan bagikan beberapa screenshots sebagai bukti untuk mengirimkan pesan ke bot telegram milik teman saya sebagai bukti saja.
@@ -83,10 +87,6 @@ Hasil ketika pengiriman berhasil akan masuk ke telegram milik teman saya :
 ![image](https://github.com/galihap76/penipu-dana/assets/83481679/42615beb-4f7c-48d6-8bda-bc053a1fa70c)
 
 Jika Anda ingin mencoba nya silakan gunakan token dan chat id milik penipu pada file **penipu.txt**. 
-
-## Cara Kerja Program
-
-Program yang saya buat akan melakukan request menggunakan method POST yang artinya ketika saya mengirimkan pesan nanti akan masuk ke telegram nya si penipu dengan status response 200 yang artinya pengiriman berhasil.  Hal ini saya sudah tahu token dan chat ID nya si penipu yang nanti akan melakukan hit API telegram bot nya. Jika status nya bukan 200 berarti ada kesalahan dan mungkin akan melemparkan 429 yang artinya terlalu menerima permintaan dari saya, sehingga bot susah menanggapi.
 
 ## Cara Mendapatkan Token Dan Chat ID
 
