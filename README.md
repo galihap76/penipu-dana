@@ -53,7 +53,7 @@ Jika Anda tidak familiar dengan CLI, Anda bisa menggunakan versi GUI. Anda bisa 
 
 ## Screenshots
 
-Saya akan bagikan beberapa screenshots sebagai bukti untuk mengirimkan pesan ke bot telegram milik teman saya sebagai percobaan saja.
+Saya akan bagikan beberapa screenshots sebagai bukti untuk mengirimkan pesan ke bot telegram milik teman saya sebagai bukti saja.
 
 ### GUI
 
