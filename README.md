@@ -90,11 +90,11 @@ Jika Anda ingin mencoba nya silakan gunakan token dan chat id milik penipu pada 
 
 ## Cara Mendapatkan Token Dan Chat ID
 
-Anda perlu mendapatkan token dan chat id telegram si penipu. Cara nya bagaimana? Cara nya bisa di lakukan oleh saya seperti pada gambar di atas. 
+Anda perlu mendapatkan token dan chat id telegram si penipu. Cara nya bagaimana? Cara nya bisa di lakukan oleh saya seperti pada gambar di atas. Atau bisa juga, jika si penipu menggunakan berbentuk aplikasi pada format **apk** seperti undangan pernikahan, Anda perlu melakukan decompile untuk mendapatkan source code asli. Namun, saya fokuskan pada cara di atas.  
 
 ## Info
 
-Sepengalaman yang saya lihat, penipu biasanya mencari korban yang awam dan memberikan link tersebut. Web modelan di atas banyak bertebaran di mana mana, mungkin si penipu cuman ambil doang atau bisa jadi beli dari seseorang. Saya gak tahu juga, bisa jadi penipu mengerti bikin web phising dari nol dan melakukan aksi serangan nya.  
+Sepengalaman yang saya lihat, penipu biasanya mencari korban yang awam dan memberikan link tersebut, kebanyakan lewat WhatsApp. Web modelan di atas banyak bertebaran di mana mana, mungkin si penipu cuman ambil doang atau bisa jadi beli dari seseorang. Saya gak tahu juga, bisa jadi penipu mengerti bikin web phising dari nol dan melakukan aksi serangan nya.  
 
 Bagi orang yang mengerti komputer, bisa saja di lihat source code tadi seperti cara di atas dan apakah web ini memang dari pihak resmi. Web si penipu menggunakan pemrograman JavaScript di sertai menggunakan Library JQuery, jadi saya bisa melihat kode nya di browser milik saya. Pihak DANA memang sudah memberi peringatan dan pencegahan pada laman info aplikasi. Ini bisa di lihat pada aplikasi DANA sendiri :
 
