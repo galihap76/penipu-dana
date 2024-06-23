@@ -53,18 +53,36 @@ Jika Anda tidak familiar dengan CLI, Anda bisa menggunakan versi GUI. Anda bisa 
 
 ## Screenshots
 
-### CLI
-![image](https://github.com/galihap76/penipu-dana/assets/83481679/d614170e-443f-4623-9c22-0a92eea27a13)
+Saya akan bagikan beberapa screenshots sebagai bukti untuk mengirimkan pesan ke bot telegram milik teman saya sebagai percobaan saja.
+
+### GUI
+
+Pengiriman pesan pada versi GUI :
+
+![InkedInkedscreenshot1_LI](https://github.com/galihap76/penipu-dana/assets/83481679/63fc9aba-28e9-4e0c-a1d2-d072af20ed99)
 
 <hr/>
 
-### GUI
-![image](https://github.com/galihap76/penipu-dana/assets/83481679/527822e7-714e-427d-bed5-277af9e17cd6)
+### CLI
+
+Pengiriman pesan pada versi CLI :
+
+![Screenshot2](https://github.com/galihap76/penipu-dana/assets/83481679/de71c5db-c0a1-4b64-86ac-d11452c3727f)
+
+<hr/>
+
+### Hasil 
+
+Hasil ketika pengiriman berhasil akan masuk ke telegram milik teman saya :
+
+![res (2)](https://github.com/galihap76/penipu-dana/assets/83481679/3a8d68e3-3c1e-42c0-a7a9-02e6ea029f3d)
 
 <hr/>
 
 ### BOT Telegram Penipu
 ![image](https://github.com/galihap76/penipu-dana/assets/83481679/42615beb-4f7c-48d6-8bda-bc053a1fa70c)
+
+Jika Anda ingin mencoba nya silakan gunakan token dan chat id milik penipu pada file **penipu.txt**. 
 
 ## Cara Kerja Program
 
