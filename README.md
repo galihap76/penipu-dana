@@ -96,13 +96,21 @@ Anda perlu mendapatkan token dan chat id telegram si penipu. Cara nya bagaimana?
 
 Sepengalaman yang saya lihat, penipu biasanya mencari korban yang awam dan memberikan link tersebut, kebanyakan lewat WhatsApp. Web modelan di atas banyak bertebaran di mana mana, mungkin si penipu cuman ambil doang atau bisa jadi beli dari seseorang. Saya gak tahu juga, bisa jadi penipu mengerti bikin web phising dari nol dan melakukan aksi serangan nya.  
 
-Bagi orang yang mengerti, bisa saja di lihat source code tadi seperti cara di atas dan apakah web ini memang dari pihak resmi. Web si penipu menggunakan pemrograman JavaScript di sertai menggunakan Library JQuery, jadi saya bisa melihat kode nya di browser milik saya. Pihak DANA memang sudah memberi peringatan dan pencegahan pada laman info aplikasi. Ini bisa di lihat pada aplikasi DANA sendiri :
+Bagi orang yang mengerti, bisa saja di lihat source code tadi seperti cara di atas dan apakah web ini memang dari pihak resmi. Web si penipu menggunakan pemrograman JavaScript di sertai menggunakan Library JQuery, jadi saya bisa melihat kode nya di browser milik saya. Pihak DANA memang sudah memberi peringatan dan pencegahan pada laman info aplikasi. Saya lampirkan beberapa screenshots :
 
 ![Gambar WhatsApp 2024-06-22 pukul 12 04 00_aec5bb69 (1)](https://github.com/galihap76/penipu-dana/assets/83481679/3522241d-5f99-430d-85c9-fb92d7367f3f)
 
 <hr/>
 
 ![Gambar WhatsApp 2024-06-22 pukul 12 04 00_aa33e6db](https://github.com/galihap76/penipu-dana/assets/83481679/5bf2bf87-a9c4-4bd4-a445-1d13362ca68d)
+
+<hr/>
+
+![Gambar WhatsApp 2024-06-28 pukul 09 16 30_f8d24af3](https://github.com/galihap76/penipu-dana/assets/83481679/148b484d-d7a5-4229-a2ba-1305eb0a323a)
+
+<hr/>
+
+![Gambar WhatsApp 2024-06-28 pukul 09 16 37_f4770400](https://github.com/galihap76/penipu-dana/assets/83481679/1c9b2ec0-cb5e-4996-96d4-583fde441906)
 
 ## Penutup
 
